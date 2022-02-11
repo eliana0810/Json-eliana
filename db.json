@@ -1,26 +1,5 @@
 [
-  {
-    "Factura": "EP001",
-    "Nombre": "Alejandra Correa",
-    "Tipo de identificacion": "CC",
-    "Cedula": "123456",
-    "email": "maria.correa@payco.co",
-    "Ciudad": "Bello",
-    "Celular": "3215468555",
-    "Valor": 120000,
-    "Descripcion": "Pago Recaudo"
-  },
-  {
-    "Factura": "EP001",
-    "Nombre": "Alejandra Correa",
-    "Tipo de identificacion": "CC",
-    "Cedula": "123456",
-    "email": "maria.correa@payco.co",
-    "Ciudad": "Bello",
-    "Celular": "3215468555",
-    "Valor": 5000,
-    "Descripcion": "Pago Recaudo"
-  },
+
   {
     "Factura": "EP003",
     "Nombre": "Andres Tanga",
